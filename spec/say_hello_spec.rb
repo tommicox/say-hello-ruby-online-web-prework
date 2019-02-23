@@ -12,3 +12,5 @@ describe "say_hello" do
     say_hello()
   end
 end
+# I call on the method, say_hello, and give it the string "Gabriela"
+say_hello("Gabriela")
