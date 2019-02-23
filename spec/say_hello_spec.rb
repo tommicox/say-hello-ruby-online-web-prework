@@ -12,5 +12,7 @@ describe "say_hello" do
     say_hello()
   end
 end
+describe say_hello
 # I call on the method, say_hello, and give it the string "Gabriela"
 say_hello("Gabriela")
+end
